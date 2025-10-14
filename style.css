@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+}
+
+section {
+    background-size: cover;
+}
+
+.volunteers {
+    background-image: url('background1.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.testimonals {
+    background-image: url('background2.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.classroom {
+    background-image: url('background3.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
